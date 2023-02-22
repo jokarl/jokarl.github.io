@@ -45,4 +45,5 @@ This work is published under [MIT][mit] License.
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
 
 # Docs
-[Using this theme](https://github.com/cotes2020/jekyll-theme-chirpy/tree/master/_posts)
+[Using this themes markdown](https://github.com/cotes2020/jekyll-theme-chirpy/tree/master/_posts)  
+[Writing a post](https://chirpy.cotes.page/posts/write-a-new-post/)
